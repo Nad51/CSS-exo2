@@ -1,0 +1,57 @@
+nav li {
+    display: inline-block;
+    margin: 0 auto;
+}
+
+ul {
+    border: 2px solid black;
+    padding: .5em;
+}
+
+
+ul {
+    display: flex;
+    margin: 0;
+}
+
+
+.carousel {
+    background-color: rgb(218, 218, 218);
+
+    margin: auto;
+    width: auto;
+    height: 150px;
+}
+
+section h2 {
+    text-align: center;
+    margin: 2em;
+}
+
+
+
+article {
+    display: inline-block;
+    background-color: rgb(218, 218, 218);
+    margin: .5em;
+    margin-bottom: 10em;
+
+    width: 27%;
+    height: 300px;
+}
+
+form input,
+form textarea {
+    display: block;
+    margin: auto;
+    margin-top: 1em;
+    width: 75%;
+}
+
+form input {
+    height: 30px;
+}
+
+form textarea {
+    height: 150px;
+}
